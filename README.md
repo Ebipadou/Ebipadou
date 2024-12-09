@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebipadou
 - 👀 I’m interested in Python/Django as well as full-stack website and software development. 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python/Django/API/Wescripting
 - 💞️ I’m looking to collaborate on web and software applications.
 - 📫 How to reach me: You can reach me via my email ugodavid288@gmail.com.
 - 😄 Pronouns: He/Him
